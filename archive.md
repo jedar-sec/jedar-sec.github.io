@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Blogs
 ---
 {% include post.html %}
 {% for tag in site.tags %}
